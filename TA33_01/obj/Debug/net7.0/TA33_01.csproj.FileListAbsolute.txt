@@ -1,0 +1,7 @@
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.csproj.AssemblyReference.cache
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.AssemblyInfoInputs.cache
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.AssemblyInfo.cs
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.csproj.CoreCompileInputs.cache
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.MvcApplicationPartsAssemblyInfo.cs
+E:\VS Proyectos\TA33_01\obj\Debug\net7.0\TA33_01.MvcApplicationPartsAssemblyInfo.cache
